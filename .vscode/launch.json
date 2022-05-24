@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Aula04Application<aula04>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.aula04.Aula04Application",
+            "projectName": "aula04",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
